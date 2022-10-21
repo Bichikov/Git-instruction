@@ -77,3 +77,18 @@ git branch -d new_branch_name
 
 С параметром -d или -D ветки будут удалены. Вы можете указать более одной ветки для удаления. Если в ветке в настоящее время есть журнал ссылок, то журнал ссылок также будет удален.-D<branchname>
 ```
+dfgdfgdfg
+dsfgsdfg
+
+dfgdf
+dfgdg
+dfgdfg
+
+dsfgdsfg
+
+dfg
+d
+g
+ergergergerge
+ergerg
+
