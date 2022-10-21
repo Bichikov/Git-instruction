@@ -1,3 +1,4 @@
+![Изображение гит](git.jpeg)
 # Работа с Git
 
 ## 1. Провервка наличия установленного Git.
@@ -53,5 +54,4 @@ git config --global user.email "Почта@pochta.com"
 ```
 git branch new_branch_name
 ```
-этой командой создали новую ветку с именем `new_branch_name` 
-
+этой командой создали новую ветку с именем `new_branch_name`
